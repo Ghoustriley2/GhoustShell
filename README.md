@@ -29,8 +29,8 @@ python main.py
 
 ### GitHub Web Download
 тут два способа:
-- 1. скачать с помощью: Code > Download Zip Archive. *что бы не искать скролл вниз для портала загрузок...*
-- 2. скачать с помощью: Releases > Project source: (v0.0.1 *или другая версия которая вам нужна*)
+- скачать с помощью: Code > Download Zip Archive. *что бы не искать скролл вниз для портала загрузок...*
+- скачать с помощью: Releases > Project source: (v0.0.1 *или другая версия которая вам нужна*)
 
 ### Zip archive upload (распаковка zip исходников)
 - загрузите релиз по инструкции выше: GitHub Web Download, Step 2: загрузка с помощью Releases
