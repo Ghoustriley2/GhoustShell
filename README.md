@@ -13,6 +13,7 @@
 ### Git clone (Windows CMD)
 **Steps (действия):**
 - необходимая версия Python: Последняя (*на данный момент: v3.14.0*), (ссылка на портал Python) - https://www.python.org/downloads/windows/
+- tqdm последняя версия установка также внизу
 - если необходим модуль colorama: также установить (смотреть гайд тут) - https://pypi.org/project/colorama/
   - советую переубедится и установить сразу но уже в конце так что пропускайте этот шаг вернитесь позже внизу.
 - открываете терминал Windows CMD если ваш выбор установки через: **Git clone.** (**комбинация клавищ: Win + R, ввести в поле: "cmd" затем нажать "ENTER"**)
@@ -21,6 +22,7 @@
 **Command line Windows CMD bash (действия в терминале Windows CMD):**
 ```
 pip install colorama
+pip install tqdm
 cd ваш/путь/который/вы/скопировали
 git clone https://github.com/Ghoustriley2/GhoustShell.git
 python main.py
