@@ -72,9 +72,9 @@ python main.py
 ---
 
 # Ссылки
-(мой тг канал)[https://t.me/pythonunluck]
+[мой тг канал](https://t.me/pythonunluck)
 
-(написать мне)[https://t.me/pydestroyer]
+[написать мне](https://t.me/pydestroyer)
 
 ---
 
